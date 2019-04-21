@@ -1,2 +1,2 @@
-# ideas-2
-new project ideas folder
+# group-project-1
+An app to make it easy t quickly find a watering hole based on price and desired ambiance.
